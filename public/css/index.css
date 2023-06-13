@@ -1,91 +1,115 @@
 .task1 {
+  background: green;
 }
 
 .task2 {
+  background-image: url(/img/img-400x200.jpg);
 }
 
 .task3 {
+  background-image: linear-gradient(yellow, red);
 }
 
 .task4 {
+  background-image: radial-gradient(closest-side, #3f87a6, #ebf8e1, #f69d3c);
 }
 
 .task5 {
+  background-image: conic-gradient(from 3.1416rad at 10% 50%, #e66465, #9198e5);
 }
 
 .task6 {
+  background-repeat: repeat-x;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task7 {
+  background-repeat: repeat-y;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task8 {
+  background-repeat: no-repeat;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task9 {
+  background-repeat: space;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task10 {
+  background-repeat: round;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task11 {
+  background-attachment: scroll;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task12 {
+  background-attachment: fixed;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task13 {
+  background-attachment: local;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task14 {
+  background-position: center;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task15 {
+  background-position: top;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task16 {
+  background-position: bottom;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task17 {
+  background-position: left;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task18 {
+  background-position: right;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task19 {
+  background-position: 100px;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task20 {
+  background-position: auto;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task21 {
+  background-size: 600px;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task22 {
+  background-size: 50%;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task23 {
+  background-size: contain;
   background-image: url('/img/img-400x200.jpg');
 }
 
 .task24 {
+  background-size: cover;
   background-image: url('/img/img-400x200.jpg');
 }
 
